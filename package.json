@@ -1,0 +1,22 @@
+{
+  "name": "sample_api",
+  "version": "1.0.0",
+  "description": "simple node js api to learn node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Martin-Moreira-de-jesus/node_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martin-Moreira-de-jesus/node_api/issues"
+  },
+  "homepage": "https://github.com/Martin-Moreira-de-jesus/node_api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
